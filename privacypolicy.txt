@@ -1,0 +1,93 @@
+Just Say Hey Chrome Extension – Privacy Policy
+
+Last updated: 2/01/2026
+
+Overview
+
+The Just Say Hey Chrome Extension is a user-initiated tool that allows people to share events they discover on the web into the Just Say Hey platform. We are committed to respecting user privacy and minimising data collection.
+
+This extension does not track browsing activity, run in the background without user action, or collect personal data beyond what is required to perform its core function.
+
+Information We Collect
+1. Event Information (User-Initiated)
+
+When a user chooses to share an event using the extension, the extension may temporarily access information from the webpage the user is viewing, such as:
+
+Event title
+
+Date and time
+
+Location
+
+Description
+
+Event URL
+
+This information is used only to prefill an event submission to the Just Say Hey platform and is shared only when the user confirms submission.
+
+2. Account Information (If Signed In)
+
+If the user chooses to sign in to their Just Say Hey account, the extension may associate submitted events with that account. Authentication is handled securely and is used only to enable publishing functionality.
+
+The extension does not access contacts, emails, browsing history, or unrelated personal data.
+
+3. Local Storage
+
+The extension may store limited data locally in the user’s browser, such as:
+
+Extension preferences
+
+Temporary draft event data
+
+This data is stored locally using Chrome’s storage APIs and is not used for tracking or analytics.
+
+Information We Do Not Collect
+
+We do not:
+
+Track browsing history
+
+Monitor websites visited
+
+Collect analytics on user behaviour outside the extension flow
+
+Run background scraping or automated data collection
+
+Sell or share user data with third parties for advertising purposes
+
+How Information Is Used
+
+Information collected by the extension is used solely to:
+
+Allow users to share events into the Just Say Hey platform
+
+Prefill event submission forms to reduce manual entry
+
+Associate submissions with the correct user account (if signed in)
+
+Data Sharing
+
+Event information is sent only to Just Say Hey’s backend services when the user explicitly submits an event. We do not share extension data with third parties outside of operating the Just Say Hey platform.
+
+Security
+
+All communication between the extension and Just Say Hey services is transmitted securely. No executable code is downloaded or run from external sources.
+
+User Control
+
+The extension only runs when the user activates it.
+
+Access to webpage content is temporary and limited to the active tab.
+
+Users can uninstall the extension at any time to remove all locally stored data.
+
+Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected by updating the “Last updated” date above.
+
+Contact
+
+If you have questions about this Privacy Policy or the Just Say Hey Chrome Extension, you can contact us at:
+
+Email: justsayheyapp@gmail.com
+Website: https://justsayheyapp.com
